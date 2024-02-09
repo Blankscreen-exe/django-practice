@@ -1,3 +1,4 @@
 https://testdriven.io/courses/tdd-django/intro/
 https://realpython.com/django-1-6-test-driven-development/
 https://test-driven-django-development.readthedocs.io/en/latest/
+https://www.youtube.com/watch?v=REhBTwubGzo
